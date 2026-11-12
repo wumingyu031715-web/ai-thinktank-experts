@@ -1,0 +1,1875 @@
+{
+  "experts": [
+    {
+      "id": "53f439dbdabfaee0d9b845bc",
+      "rank": "正高级",
+      "name": "南策文",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Magnetoelectric,Thermoelectric,Thermal Conductivity,Composite,Ionic Conductivity,Electrical Conductivity,Dielectric Properties,Energy Storage,Composites,Magnetoelectric Effect,Multidisciplinary,Science,Humanities And Social Sciences,Magnetic Properties,Thin Film Ferroelectrics,Magnetostriction,Multiferroic,Piezoelectric Properties,Multiferroics,Microstructure,Energy Density,High Energy Storage Materials,Lithium Ion Battery,Nanocomposites,Thermoelectric Properties,Solid Electrolyte,Phase-Field Simulation,Ferroelectric Materials,Polymer Electrolytes,Magnetoelectric Devices,Nanocrystals,Effective-Medium Theory,General,Microwave Absorption,Z-Type Barium Ferrite,Magnetoelectric Effects,Ceramics,Magnetomechanical Effect,Dielectric,Nanostructures,Ferroelectrics And Multiferroics,Photocatalysis,Sol-Gel,Composite Materials,Materials Science,Dielectric Constant,Ferromagnetic Materials,Spark Plasma Sintering,Thin Films,Bicuseo",
+      "papers": 1416,
+      "cites": 88280,
+      "department": [
+        "材料学院"
+      ],
+      "status": "启用",
+      "email": "cwnan@tsinghua.edu.cn",
+      "adjunct": false,
+      "photo": "assets/figma/adcd6.png",
+      "photoHeight": 75.421875,
+      "rowHeight": 99.421875
+    },
+    {
+      "id": "542d01cadabfae489b978c30",
+      "rank": "正高级",
+      "name": "廖理",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Consumer Finance,Split-share Structure Reform,Corporate Governance,China,Peer-to-peer Lending,Financial Literacy,Venture Capital,Investments,Saving Motive,Capital Structure,Information Asymmetry,Market Reaction,Individual Investors,Behavioral Finance,Privatization,State-owned Enterprise,Market Mechanism,Financial Reform,The Split-share Structure Reform,Underpricing,Abnormal Return,Foreign Capital,Fama-french,Savings,Consumption,Consumer Behavior,Investment Fees,Mutual Fund Investment,Retail Investors,Chinese Households,Risky Asset Holdings,Split-share Reform,Voluntary Information Disclosure,Transparency,Augmented Intelligence,Human-in-the-loop,Robo-advisor,Relative Income,Savings Rate,Excess Debt,Pyramidal Ownership,Difference In Difference,G15,Market Efficiency,Moral Hazard,Lockup Expiration,Revelation,Investment Decisions,Stock Returns,Panel Data",
+      "papers": 182,
+      "cites": 3765,
+      "department": [
+        "五道口金融学院互联网金融实验室",
+        "五道口金融学院阳光互联网金融创新研究中心",
+        "金融科技研究院",
+        "国家金融研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/fbb68.png",
+      "photoHeight": 84.0625,
+      "rowHeight": 132
+    },
+    {
+      "id": "65f864c3c508fe539a9a58be",
+      "rank": "中级",
+      "name": "何雷",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Feature Maps,Autonomous Vehicles,Object Detection,Focal Length,Independent Raters,Neural Network,Point Cloud,Feature Representation,Coordinate System,Inherent Ambiguity,Depth Learning,Single Images,Depth Estimation,Semantic Estimation,Semantic Objectness,Object Segmentation,High-dimension Space,Global Information,Fine-grained Depth,Computer Memory,Pixel-wise Prediction Problems,Spindle-net,Encoder-decoder Architect,Monocular Depth Inference,Dense Corresponding Function,Monocular Depth Learning,Dilation Kernel Method,Low-dimension Space,Computer Vision,Convolution Neural Network,Symmetrical Spindle Network,Single Image Super-resolution Technique,Change Detection,Motion Detection,Interest Point Detectors,Feature Matching,Object Recognition,Sparse Sift Flow,Depth Extraction,Single Image,Radar Propagation,Motor Imagery,Cortical Control,Model Of Perception,Internal Module,Indoor Scene.,Feature Extraction,Cameras,Laser Radar,Monocular Depth Estimation",
+      "papers": 27,
+      "cites": 299,
+      "department": [
+        "机械工程学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/9beed.png",
+      "photoHeight": 80.59375,
+      "rowHeight": 104.59375
+    },
+    {
+      "id": "6773659df27848c60897d1a4",
+      "rank": "副高级",
+      "name": "赵斌",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "China,Pm2.5,Air Quality,Source Apportionment,Emission Modeling,Emission Inventory,Secondary Organic Aerosol,Aerosol Formation,Emissions,Aerosols,New Particle Formation,CMAQ,Air Pollution,Ozone,Household Air Pollution,Yangtze River Delta,Atmospheric Composition,Air Pollutants,Source Contribution,Response Surface Model,Organic Aerosol,Air Quality Modeling,Nox Emissions,Health Impact,Ambient Air Pollution,Science,Multidisciplinary,Humanities And Social Sciences,Meteorology,Fine Particles,Atmospheric Chemistry,Environmental Impact,Aerosol,Regional Transport,Mortality,Biogenic Emissions,Emission Control,Covid-19,Air Quality Monitoring,Air Quality Model,Climate Change,O-3,Amazon Rainforest,Atmospheric Aerosols,Ivocs,Vehicle Emissions,Pm2.5 Concentration,Pm2.5 Speciation,Particulate Matter,Economic Growth",
+      "papers": 214,
+      "cites": 9661,
+      "department": [
+        "环境学院大气污染与控制教研所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/22ff2.png",
+      "photoHeight": 75.046875,
+      "rowHeight": 99.046875
+    },
+    {
+      "id": "674d371f311fb08385456552",
+      "rank": "中级",
+      "name": "宋伟泽",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "",
+      "papers": 14,
+      "cites": 495,
+      "department": [
+        "低碳能源实验室"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/9d330.png",
+      "photoHeight": 87.125,
+      "rowHeight": 111.125
+    },
+    {
+      "id": "674d370e5bddd38df92a1404",
+      "rank": "副高级",
+      "name": "厉克奥博",
+      "unit": "清华大学",
+      "title": "副研究员",
+      "research": "Prevention Of Consumer Finance Risks,Consumer Finance Asset Securitization,Consumer Finance Innovation,Consumer Finance Regulatory",
+      "papers": 18,
+      "cites": 82,
+      "department": [
+        "社会科学学院经济学研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/2024d.png",
+      "photoHeight": 76.34375,
+      "rowHeight": 100.34375
+    },
+    {
+      "id": "674d36f9fa8303823954b055",
+      "rank": "副高级",
+      "name": "鲍成英",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Microresonators,Optical Frequency Combs,Nonlinear Optics,Microcavities,Solitons,Mode-locking,Fiber Lasers,Phase Noise,Soliton Microcombs,Multidisciplinary,Humanities And Social Sciences,Science,Frequency Combs,Microwave Photonics,Microcomb,Spectral Shaping,Micromechanical Resonators,Raman Scattering,Tm-doped Fiber Laser,Frequency Synthesis,Dissipative Solitons,Mode-locked Fiber Lasers,SIN,Saturable Absorber,Thermal Effects,Optical Soliton,Dual-comb Measurements,Soliton Repetition Rate,Phased Array Antenna,Optical Frequency Comb,Microresonator,True Time Delay,Imaging And Sensing,Mid-infrared Photonics,Micro-optics,Mathematical And Computational Physics,Complex Systems,Atomic,Classical And Continuum Physics,Optical And Plasma Physics,Molecular,Theoretical,Physics,Condensed Matter Physics,General,Interleaved Difference-frequency-generation,Frequency 22.0 Ghz,Gigahertz Line Spacing,Wavelength 3.3 Micron,Mid-infrared Microcomb Spectral Densification",
+      "papers": 88,
+      "cites": 1794,
+      "department": [
+        "机械工程学院精密仪器系光电工程研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/4750c.png",
+      "photoHeight": 72,
+      "rowHeight": 96
+    },
+    {
+      "id": "674d36f39df8c1b66b601d1b",
+      "rank": "副高级",
+      "name": "邓敏聪",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Organic Light-Emitting Diodes,Electroluminescence,Phosphorescent Materials,Phosphorescence,Flexible Oled Technology,Sensitizer,Iridium Complex,Transition Metal Complexes,Triplet-Triplet Up-Conversion,Operational Stability,Gold,Charge Transfer,High Efficiency,Blue Oleds,Deuteration,Organic Light-Emitting Devices,Luminescence,Domain Distribution,Quasi-2D Perovskite,Alkali Metal Halide,Perovskite Light-Emitting Diode,Organic Electronics,Photodetector,Organic Thin Film,Monolayer Mos2,P-N Heterojunction,Responsivity,Perovskite,Organic Heterojunction,Photodetectors,Dual-Band,Oled,Top-Emitting Oled,Blue Oled,Bt.2020,Dendrimers,Carbazoles,Aqueous Zinc-Ion Batteries,Zinc Anode,Room-Temperature Phosphorescence,Boron Doping,4-Boron Migration,Polycyclic Aromatic Hydrocarbons (Pahs),Nanographenes,Color Tuning,Rational Design,N-Heterocyclic Carbene Ligands,Delayed Fluorescence,Organic Light-Emitting Diode,Anthracene-Based Hydrocarbon",
+      "papers": 58,
+      "cites": 1250,
+      "department": [
+        "深圳国际研究生院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/figma/fde75.png",
+      "photoHeight": 90.1875,
+      "rowHeight": 114.1875
+    },
+    {
+      "id": "674d36deba35419e8ccda652",
+      "rank": "副高级",
+      "name": "王海峰",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Gene Regulation,Crispr,Synthetic Biology,Genetic Engineering,Cancer Research,General,Crispr Applications,Cas9 Structure,Epigenetic Regulation,Genomic Imaging,Dcas9,CAS9,Cajal Body,Pml Body,Crispr-go,3d Genome,Nuclear Periphery,Nuclear Body,Gene Repression,Dna-binding Factor,Stem Cell,Crispr Activation,Transcription Factor,Crispra Screen,Genetic Interaction,Cell-fate Determination,Neuronal Reprogramming,Science,Multidisciplinary,Protein Design,Crispr-cas9 Genome Editing,Humanities And Social Sciences,Animal Genetics And Genomics,Spindle Length Control,Functional Genomics,Gene Function,Biomedicine,Nuclear Organization,Human Genetics,Poleward Flux,Microtubule Dynamics,Agriculture,Mitosis,Klp67a,Life Sciences,Microtubules,Stem Cells,Mitotic Spindle,Developmental Biology,Kinesin",
+      "papers": 10,
+      "cites": 1742,
+      "department": [
+        "生命科学学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-040.webp",
+      "photoHeight": 70.296875,
+      "rowHeight": 94.296875
+    },
+    {
+      "id": "670a2b6425e1f294c4d0fbd8",
+      "rank": "中级",
+      "name": "肖榕",
+      "unit": "清华大学",
+      "title": "助理教授",
+      "research": "",
+      "papers": 1,
+      "cites": 1,
+      "department": [
+        "美术学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-039.webp",
+      "photoHeight": 76.765625,
+      "rowHeight": 100.765625
+    },
+    {
+      "id": "66b07a31f53c2a83eace3816",
+      "rank": "副高级",
+      "name": "纪思翰",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Air Pollution,Climate Change,China,Mortality,Hypertension,Epidemiology,Environmental Epidemiology,Greenness,Exposure Assessment,Particulate Matter,Blood Pressure,Nhanes,Cardiovascular Disease,Disease Burden,Environmental Risk,Older Adults,Acute Coronary Syndrome,Social Distancing,China National Human Biomonitoring,Healthy Longevity,Lead,Pm2.5,Cognitive Function,Indoor Air,Eczema,Interaction,Green Space,Global Burden Of Disease,Environmental Correlates,Temperature,General,Aging,Fine Particulate Matter,Preterm Birth,Immune System,Colorectal Neoplasms,Prospective Study,Type 2 Diabetes Mellitus,Meta Analysis,Mortality Forecasting,Demographic Projections,Population Ageing,Global Population Trends,Government Health Expenditures,Multidisciplinary,Science,Humanities And Social Sciences,Public Health,Longevity,Lipid Profiles",
+      "papers": 231,
+      "cites": 40518,
+      "department": [
+        "万科公共卫生与健康学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-038.webp",
+      "photoHeight": 85.75,
+      "rowHeight": 109.75
+    },
+    {
+      "id": "66b07a31f53c2a83eace37fe",
+      "rank": "正高级",
+      "name": "周彤",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Networked System,Controllability,Large Scale System,Descriptor System,Observability,Robustness,Robust Control,State Estimation,Networked Dynamic System,Recursive Estimation,Stability,Linear Fractional Transformation,Large-Scale System,Distributed Estimation,Power Law,Linear Matrix Inequality,Linear Fractional Transformation (Lft),Sensitivity Penalization,Deep Learning,Recursive State Estimation,Causal Relationship Inference,Maximum Likelihood Estimation,Large Scale Genetic Regulatory Network,Regularized Least-Squares,Networked Dynamic System (Nds),Dynamical Systems,Structured Parametric Uncertainty,Robust Stability,Systems Biology,Kronecker Canonical Form (Kcf),Crypto Processor,Lft,Structured System,Chinese Electronic Medical Record,Stability Analysis,Multivariate Matrix Polynomial,Control Systems,Matrix Pencil,Global Identifiability,Random Number Generator,6G,Artificial Intelligence,Structured Singular Value,Networked Control Systems,Structural Controllability,Spectral Masks,Model Set Validation,Linear Matrix Inequalities,Matroid Intersection,Subsystem Connection Matrix",
+      "papers": 215,
+      "cites": 3001,
+      "department": [
+        "北京信息科学与技术国家研究中心智能系统重点实验室",
+        "自动化系工业智能与系统研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-037.webp",
+      "photoHeight": 75.5,
+      "rowHeight": 109
+    },
+    {
+      "id": "66b07a31f53c2a83eace3757",
+      "rank": "副高级",
+      "name": "徐宏",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Lithium-ion Batteries,Lithium Batteries,Covalent Organic Frameworks,Thermal Runaway,Cathode Materials,High Voltage,Lithium Dendrites,Computational Screening,Metal-organic Frameworks,Lithium Dendrite,Doping,Line Edge Roughness,Extreme Ultraviolet Lithography,High-resolution Patterning,Solvation Structure,Electron Beam Lithography,Composite Electrolyte,Nickel-rich Layered Oxides,Science,Humanities And Social Sciences,Multidisciplinary,Organic–inorganic Nanostructures,Structural Design,Chemical Crosstalk,Electrolytes,Parasitic Reaction,Photocatalysis,Stability,Solid Electrolyte,Ncm622,Hydrogen Storage,Separator,Molecular Glass,Chemically Amplified Resists,Cathode Material,Lithium Metal,Solid Electrolyte Interphase,Electrolyte,Lithium Metal Anode,Covalent Organic Framework,Safety,Nanofabrication,Lithography,Graphite,Texture Analysis,Lithium-ion Battery,Lithium Metal Battery,MOFS,Photoresist,Atmospheric Water Harvesting (awh)",
+      "papers": 117,
+      "cites": 3263,
+      "department": [
+        "核能与新能源技术研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-036.webp",
+      "photoHeight": 59.15625,
+      "rowHeight": 83.15625
+    },
+    {
+      "id": "66b07a31f53c2a83eace36ee",
+      "rank": "副高级",
+      "name": "李越",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Antenna Radiation Patterns,Microstrip Antennas,Antenna Measurements,Slot Antennas,Antennas,Broadband Antennas,Bandwidth,Antenna Feeds,Metamaterials,Mobile Antennas,Gain,Dipole Antennas,Microstrip,Antenna Arrays,Impedance,Substrates,Circular Polarization,Mutual Coupling,Wireless Lan,Antenna Array,Antenna Diversity,Multiple-Input Multiple-Output (Mimo),Impedance Matching,Arrays,Coplanar Waveguides,Microstrip Antenna Arrays,Wideband,Microstrip Antenna,Metasurface,Nanophotonics,Near-Zero-Index Media,Reconfigurable Antennas,High Gain,Electric Fields,Radiation Pattern,Ultrasonic Imaging,Wideband Antennas,Fluid Dynamics,Endfire,Dual-Polarized Antennas,Satellite Communication,Wireless Sensor Networks,Fifth-Generation (5G),Antenna Decoupling,Metamaterial,Couplings,Multiple-Band Antennas,Cavity Resonators,Terahertz Metamaterials,Humanities And Social Sciences",
+      "papers": 418,
+      "cites": 8793,
+      "department": [
+        "北京信息科学与技术国家研究中心光电融合先进技术重点实验室",
+        "电子工程系微波与天线研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-035.webp",
+      "photoHeight": 72.09375,
+      "rowHeight": 132
+    },
+    {
+      "id": "66b07a31f53c2a83eace363e",
+      "rank": "副高级",
+      "name": "向宇",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Dna Nanotechnology,Aptamers,Biosensors,Antigen Testing,Diagnostics,Nanoparticles,Cancer Diagnostics,Carbohydrates,Galactosemia,Alkaline Phosphatase,Personal Glucose Meter",
+      "papers": 7,
+      "cites": 358,
+      "department": [
+        "化学系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-034.webp",
+      "photoHeight": 90.296875,
+      "rowHeight": 114.296875
+    },
+    {
+      "id": "66b07a31f53c2a83eace362c",
+      "rank": "副高级",
+      "name": "刘礼晨",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Catalysis,Platinum,Zeolite,Heterogeneous Catalysis,Dft Calculations,Co Oxidation,Environmental Catalysis,Single Atoms,Selective Hydrogenation,Nh3-Scr,General,Porous Materials,Nitroarenes,Metal-Organic Frameworks,Clusters,Methane Activation,Metal-Support Interactions,Materials Science,Crystal-Plane Effect,Size Effect,Propane Dehydrogenation,So2/H2O Tolerance,Atomically Dispersed Ce,Catalytic Reduction,Nano-Composites,Catalysts,Dft,Metal Clusters,Subnanometer Metal Clusters,Ethane Dehydrogenation,Zsm-5,Fischer-Tropsch Catalysts,Nox Reduction,Methane Conversion,Metal Nanoparticles,Condensed Matter Physics,Nanotechnology,Biomaterials,Optical And Electronic Materials,Co2 Reduction,Photocatalytic,Photocatalysts,Chemoselective Hydrogenation,Co Nanoparticles,Interfacial Interaction,Interfacial Charge Transfer,Science,Multidisciplinary,Humanities And Social Sciences,Co-Mo-S Catalysts",
+      "papers": 103,
+      "cites": 10426,
+      "department": [
+        "理学院化学系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-033.webp",
+      "photoHeight": 73.765625,
+      "rowHeight": 97.765625
+    },
+    {
+      "id": "66a1f7359ea27b2b4fd588ca",
+      "rank": "副高级",
+      "name": "赵晓光",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Metamaterials,Terahertz Metamaterials,Terahertz,Dielectric Metasurfaces,Metamaterial,Terahertz Technology,Radar Absorbers,MEMS,Metasurfaces,High Quality Factor,Plasmonic Metasurfaces,Transformation Optics,General,Tunable Metasurfaces,Metamaterial Perfect Absorber,Chiral Metamaterials,Quantum Dots,Stark Effect,Nonlinear Metamaterials,Engineering,Absorber,Coupled Mode Theory,Interference Theory,Magnetic Coupling,Diatom,Magnetic Resonance Imaging,Wireless Communication,Cascaded Metasurfaces,Near Field Communication,Wireless Power Transfer,Resonant Frequency,Tunable Terahertz Metamaterial,Metamaterial Absorber,Metasurface Sensors,Terahertz (thz) Waves,Single-walled Carbon Nanotubes (swcnts),Metamaterials Perfect Absorbers,High-q,Passive Wireless Sensor,Laser Induced Graphene,Sensing,Tunable Air Gap,All-silicon,Ultra-broadband,Optical Modulation,Terahertz Absorber,Leaky-wave Structures,Optically Tuning,Flexible,Metamaterials Perfect Absorber",
+      "papers": 131,
+      "cites": 2459,
+      "department": [
+        "机械工程学院精密仪器系仪器科学与技术研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-032.webp",
+      "photoHeight": 85.703125,
+      "rowHeight": 109.703125
+    },
+    {
+      "id": "66987c56634b146c85085c2f",
+      "rank": "副高级",
+      "name": "Martijn de Geus",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "",
+      "papers": 1,
+      "cites": 1,
+      "department": [
+        "建筑学院建筑系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-031.webp",
+      "photoHeight": 64.25,
+      "rowHeight": 88.25
+    },
+    {
+      "id": "669650ff627e807c1ece35d8",
+      "rank": "中级",
+      "name": "彭丽莎",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Defect,Deep Learning,Focusing,Acoustics,Nondestructive Testing,Defect Quantification,Magnetic Flux Leakage (mfl) Signal,EMAT,Testing,Feature Extraction,Pipelines,Electromagnetic Acoustic Transducer (emat),Inspection,Magnetic Flux Leakage (mfl),Magnetic Flux Leakage (mfl) Testing,Transducers,Edge Detection,Magnetic Flux Leakage,Acoustic Sensors,Acoustic Waves,Magnetic Flux Leakage Testing,Neural Networks,Physics-informed,Opening Profile Recognition,Vertical Component,Defect Classification,Magnetic Sensors,In-line Inspection,Acoustic Lens,Wavelet Transforms,Orthogonal Test,Magnetic Flux Leakage Detection,Signal Intensity,Negative Partial Derivative,Sensor Phenomena And Characterization,Oil And Gas Pipeline,Magnetic Fields,Visualization,Point-focusing,Oblique Point-focusing,Finite Element Method,Concrete,Lift-off Value,ACFM,Analytical Solution,Eddy Current Testing,Eddy Current Testing (ect),Excitation Source Structure,Motion-induced Eddy Current,Doubly Fed",
+      "papers": 79,
+      "cites": 579,
+      "department": [
+        "电机工程与应用电子技术系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-030.webp",
+      "photoHeight": 73.921875,
+      "rowHeight": 97.921875
+    },
+    {
+      "id": "669650ff627e807c1ece3512",
+      "rank": "中级",
+      "name": "陈卓",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Microreactor,Microfluidic,Microfluidics,Mass Transfer,Liquid-liquid,Peroxidation,Micro-packed Bed,Microreaction,Helical Microfiber,Diacyl Peroxides,Gas-liquid,Multiphase Flow,Process Intensification,Apparent Reaction Kinetics,Alginate Hydrogel,Magnetic Hydrogels,Thermosensitive,Hyperthermia,Drug Release,Ligand Engineering,Quantum Light-emitting Diodes,Droplet-based Microreactors,Robust Perovskite Nanocrystals,Microfluidic Method,Perovskite Nanocrystals,Large-scale Synthesis,Online Regulation,Droplet-based Microreactor,Hydrodynamically Focusing Flow,Droplet Manipulation,Droplet Formation,Wound Dressing,Adsorption,Mechanism,Zeolite,Hydrogen Sulfide,Fiber,Helical,Droplet,Interface,Liquid-liquid Two-phase Flow,Population Balance Model,Environmental Remediation,Droplet And Microfiber,Energy Storage,Multi-phase Flow,Microchannel,Tributyl Phosphate,Dual-coaxial,Continuous -flow Synthesis",
+      "papers": 40,
+      "cites": 217,
+      "department": [
+        "化学工程系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-029.webp",
+      "photoHeight": 85.734375,
+      "rowHeight": 109.734375
+    },
+    {
+      "id": "669650ff627e807c1ece33ff",
+      "rank": "副高级",
+      "name": "叶璇",
+      "unit": "清华大学",
+      "title": "副研究员",
+      "research": "",
+      "papers": 0,
+      "cites": 0,
+      "department": [
+        "核能与新能源技术研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-028.webp",
+      "photoHeight": 77.546875,
+      "rowHeight": 101.546875
+    },
+    {
+      "id": "669650ff627e807c1ece33dd",
+      "rank": "副高级",
+      "name": "王博",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Wireless Network,Energy Efficiency,Congestion Control,Real-Time Communications,Streaming Media,Http Adaptive Streaming,Context,Reconfigurable Architectures,Task Analysis,Processor Scheduling,Throughput,Cryptographic Processor,Cryptography,Acceleration,Flexibility,Bandwidth,Multi-Step Prediction,Bitrate Adaptation,Dash,Generalized Predictive Control,Frequency Comparison,Network Performance,Delay Analysis,Bandwidth Estimation,Video Streaming,Low Latency Live Video,Bandwidth Estimation And Prediction,Low Latency Communication,Transient Analysis,User Experience,Fluctuations,Delays,Tail,Wireless Fidelity,Kalmanfi Lter,Frequency Transfer,Frequency Synthesis,Frequency Metrology,Kalman Filter,Mobile Devices,Cellular Networks,Prediction Algorithms,Bit Rate,Video Recording,Quality Assessment,Quality Of Experience,Lightweight,Mobile Live Streaming,Sliding Mode Control,Low Latency",
+      "papers": 27,
+      "cites": 146,
+      "department": [
+        "网络科学与网络空间研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-027.webp",
+      "photoHeight": 91.90625,
+      "rowHeight": 115.90625
+    },
+    {
+      "id": "667d4d21c0c0b2848263d8be",
+      "rank": "中级",
+      "name": "王家",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Cryoelectron Microscopy,Life Sciences,General,Cryo-Em,Membrane Biology,Protein Structure,Biochemistry,Biological Microscopy,Sars-Cov-2,Ace2,Covid-19,Exocytosis,Rhinolophus Macrotis,Rbd,Cell Biology,Pattern Recognition Receptors,Structure,Multidisciplinary,Science,Humanities And Social Sciences,Rna Splicing,Human Dicer,Dgcr8,Mirna,Microprocessor,Drosha,Pri-Mirna,Mechanisms Of Disease,Rna-Guided Dna Nuclease,Nucleic Acid Manipulation,Cas12E,Casx,Crispr,Genome Editing,Dna Cleavage,Structural Engineering,Sgrna,Dna Recombination,Restriction Factors,Retroelement,Reverse Transcription,Non-Ltr,R2 Retrotransposon,Nuclease,Retrotransposition,Rna Structure,Air–Water Interface,3D Reconstruction,Reduced Graphene Oxide,Rnai",
+      "papers": 29,
+      "cites": 2762,
+      "department": [
+        "生命科学学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-026.webp",
+      "photoHeight": 80,
+      "rowHeight": 104
+    },
+    {
+      "id": "66749930f2c654e5efcb7a33",
+      "rank": "正高级",
+      "name": "胡佳",
+      "unit": "清华大学",
+      "title": "长聘教授",
+      "research": "Helping,Sympathy,Teammate-directed Abusive Supervision,Leader-member Exchange,Working From Home,Conflicts Between Work And Family,Family Task Completion,Work Task Completion,Dual-earner Couple,Need Fulfillment,Prosocial Impact,Leader Humility,Leader Helping,Empowering Leadership,Promotion Focus,Gratitude Intervention,Recall Of Learning From Mistakes,Research Design,Open Science (e.g., Transparency In Research Practices),Research Methods,Knowledge Transfer/replication",
+      "papers": 6,
+      "cites": 39,
+      "department": [
+        "经济管理学院领导力与组织管理系",
+        "苏世民书院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-025.webp",
+      "photoHeight": 78.328125,
+      "rowHeight": 102.328125
+    },
+    {
+      "id": "666c217bcfb652168906ed63",
+      "rank": "正高级",
+      "name": "范嗣祺",
+      "unit": "清华大学",
+      "title": "研究员",
+      "research": "Object Detection,Semantic Segmentation,Visual Odometry,Computer Vision For Transportation,Multiple Object Tracking,Object Tracking,Spatial Representation,Scf-net,Spatial Location,Global Point Cloud,Local Polar Representation Block,Spatial Contextual Features Learning,Discriminative Local Features,Global Contextual Feature Block,Dual-distance Attentive Pooling Block,Large-scale Point Cloud Segmentation,Geometric Feature Distances,Functional Genomics,Foreground Region Proposal,Estimation,Anchor-free Detector,Proposals,Feature Extraction,Semantics,Convolution,Detectors,Computer Vision,Defect Detection,Crack Detection,Intelligent Transportation Systems,Multi-robot Systems,Motion Forecasting,Transfer Learning,Unsupervised Learning,Meta Learning,Cooperative Autonomous Driving,Semi-supervised Learning,Representation Learning,Dataset And Benchmark,Roadside Perception,Cooperative Perception,Autonomous Driving,Computer Vision For Automation,Deep Learning For Visual Perception,Visual Tracking,Point Cloud Analysis,Point Coordinates,PAT,Local Attention,Weighted Voting",
+      "papers": 19,
+      "cites": 487,
+      "department": [
+        "智能产业研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-024.webp",
+      "photoHeight": 85.265625,
+      "rowHeight": 109.265625
+    },
+    {
+      "id": "666283a90525f06c886790ec",
+      "rank": "中级",
+      "name": "杨崇圣",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Corporate Performance,Corporate Governance,State-owned Enterprises (soes),Independent Directors (ids),Special Economic Zones",
+      "papers": 0,
+      "cites": 0,
+      "department": [
+        "国际与地区研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-023.webp",
+      "photoHeight": 45.421875,
+      "rowHeight": 80
+    },
+    {
+      "id": "66277cfad5f09649228a9aec",
+      "rank": "正高级",
+      "name": "张翼华",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Hausdorff Dimension,Ergodic Theory,Symplectic Topology,Modular Forms,Teichmüller Curves,Dynamic System,Number Theory,Bounded Trajectories,Schmidt Games,Saddle Connections,Minimal Surfaces,Topological Entropy,Quantum Topology,Abelian Differentials,Siegel-veech Transform,Invariant Measures,Interval Exchange,Quadratic Differential,Modulus Space,Riemann Surface,Elementary Matrice,Arithmetic Progressions,Descriptive Geometry,Computational Geometry,Player Modeling,Geometric Optimization,Real-time Strategy Games,General Game Playing",
+      "papers": 25,
+      "cites": 448,
+      "department": [
+        "理学院数学科学系/清华大学丘成桐数学科学中心"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-022.webp",
+      "photoHeight": 60,
+      "rowHeight": 86
+    },
+    {
+      "id": "661d7493a56ca8165827c2d0",
+      "rank": "中级",
+      "name": "何雯",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Mechanistic Model,Void Fraction,Flow Boiling,Rectangular Channel,Two-Phase Flow,Condensation,Wetting Contrast,Microscale-Confined,Heat Transfer,Numerical Simulation,Slip Ratio,Bubble Layer,Saturated Flow Boiling,Heat Transfer Correlations,Flow Pattern,Core Region,Bubble Layer Region,Dryout,Heat Transfer Mechanisms,Annular-Mist Flow,Bubble Departure Diameter,Predicting Accuracy,Capacitive Drum Position Measuring System,Subcooled Flow Boiling,Pattern Transition,Force Balance Model,Solidification Modeling,Boiling Heat Transfer,Pool Boiling,Channel Inclination,High Flux Test Reactor,Two-Phase Flow Parameter,Mold Fluxes,Control Drum,Bubble-Layer-Based Model,Narrow Slot",
+      "papers": 13,
+      "cites": 25,
+      "department": [
+        "核能与新能源技术研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-021.webp",
+      "photoHeight": 80.09375,
+      "rowHeight": 104.09375
+    },
+    {
+      "id": "6617b390b49994fb9532b62c",
+      "rank": "中级",
+      "name": "骆浩",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Monte Carlo,RMC,Photon Transport Physics,Verification,New Database,Photon Flux And Heating,Severe Accident,Decay Heat,In-vessel Retention,Molten Pool,Energy Deposition,FET,Convergence Judge Method,Fewer Collisions,Hdf5 Data Transfer,Neutron And Gamma Heating,Neutron Multiplicity Counting,Point Model Equation,Hash Functions,Functional Expansion Tallies,Mesh Mapping,Computational Fluid Dynamics,Acceleration,Multi-physics Simulation,Nuclear Reactors,Source Distribution Convergence,AWCC,Neutronic/thermal-hydraulics Coupling,Thermal-physics Coupling Method,CRC",
+      "papers": 9,
+      "cites": 4,
+      "department": [
+        "核能与新能源技术研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-020.webp",
+      "photoHeight": 60,
+      "rowHeight": 84
+    },
+    {
+      "id": "660cefb2695deafef7b31fab",
+      "rank": "正高级",
+      "name": "王生进",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Object Detection,Person Re-Identification,Deep Learning,Object Recognition,Visual Tracking,Transfer Learning,Unsupervised Learning,Semi-Supervised Learning,Image Retrieval,Feature Extraction,Multiple Object Tracking,Feature Matching,Representation Learning,Object Tracking,Action Recognition,Feature Learning,Pose Estimation,Retrieval,Face Recognition,Training,Neural Network,Super-Resolution,Cross-Modal Retrieval,Meta-Learning,Feature Fusion,Image Matching,Part Selection,Foreground Segmentation,Video Enhancement,Recognition: Detection,Categorization,Pedestrian Detection,Image Captioning,Visual Servoing,Human Identification,Gait Recognition,Convolutional Neural Network (Cnn),Face Swapping,Remote Sensing,Metric Learning,Cross-View Recognition,Autofocusing,Detection,3D Human Pose,3D Object Detection,Occlusion,Boundary Removal Mechanism,Self-Adaptive Cropping,Kidney Pathology Image Segmentation,Cnn",
+      "papers": 378,
+      "cites": 24597,
+      "department": [
+        "电子工程系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-019.webp",
+      "photoHeight": 73.0625,
+      "rowHeight": 97.0625
+    },
+    {
+      "id": "660bb728695deafef7b2f10b",
+      "rank": "中级",
+      "name": "郭鸿业",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Electricity Market,Load Forecasting,Electricity Price Forecasting,Power Market,Data-driven Analysis,Probabilistic Forecasting,Short-term Forecasting,Generators,Bidding Behavior,Data Models,Inverse Reinforcement Learning,Power Markets,Reinforcement Learning,Market Power,Equilibrium Analysis,Bounded Rationality,Forecasting,Virtual Power Plant,Data-driven,Demand Response,Industrial Load,Wind Power Forecasting,Data-driven Method,Inverse Optimization,Mathematical Problem With Equilibrium Constraints (mpec),Analytical Models,Seasonal Decomposition,Mechanism Design,Linear Programming,Object Recognition,Incentive Compatibility,Nash-cournot Equilibrium,Bidding Behavior Analysis,Bidding Strategy,Energy Storage,Frequency Regulation,Demand Forecasting,Piecewise Linearization,Demand Response (dr),Industrial User,Load Modeling,Deregulation,Power Sector,Electricity,China,Market Reform,Tradable Green Certificate,Green Products,Uncertainty,Market Equilibrium",
+      "papers": 88,
+      "cites": 1108,
+      "department": [
+        "电机工程与应用电子技术系电力系统研究所",
+        "能源互联网创新研究院能源交易平台研究室"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-018.webp",
+      "photoHeight": 74,
+      "rowHeight": 109
+    },
+    {
+      "id": "660bb728695deafef7b2f108",
+      "rank": "副高级",
+      "name": "郭宇韬",
+      "unit": "清华大学",
+      "title": "副教授",
+      "research": "Steel-concrete-steel (scs) Composite Structure,Shear Resistance,Composite Structure,Rubberised Concrete,Metal And Composite Structure,Large-scale Structure,Experiment,Shear,Sandwich Structure,Mechanical Model,Finite Element Modelling,Inelastic Cyclic Response,Mechanical Properties,Truss Theory,Mega Structure,Casting Imperfection,Buckling,Megastructure,Biaxial Strengthening,Bending Resistance,Nonlinear Analysis,Finite Element Method (fem),Steel-concrete-steel (scs),Shear Connector,Large Scale,Shaped Steel,Experimental Assessment,Infilled Steel Tubes,Structural Design,Composite Sections,Experimental Study,Uplift-restricted And Slip-permitted Screw-type,Crack Resistance,Steel-concrete Composite Frame,Seismic Behavior,(ursp-s) Connector,Lateral Response,Masonry Walls,Cohesive Contact,Thin-walled Web,Cyclic Behaviour,Slip Failure,Damage Plasticity,Clay Brick,Nonlinear Modelling,Lime Mortar,Rigidity,Spatial Composite Effect,Simplified Design,Steel-concrete Composite Waffle Floor System",
+      "papers": 32,
+      "cites": 265,
+      "department": [
+        "深圳国际研究生院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-017.webp",
+      "photoHeight": 79.140625,
+      "rowHeight": 103.140625
+    },
+    {
+      "id": "660bb728695deafef7b2ef8a",
+      "rank": "中级",
+      "name": "宁国琛",
+      "unit": "清华大学",
+      "title": "助理教授",
+      "research": "Ultrasonic Imaging,Imaging,Force,Surgery,Image Reconstruction,Deformable Image Registration,Surgical Navigation,Task Analysis,Robotic Ultrasound System,Robots,Three-dimensional Displays,Optical Imaging,Reinforcement Learning,Ultrasound Image Segmentation,Breast Cancer,Ultrasound Imaging,Intracranial Germ Cell Tumor,Domain Adaptation,Image Fusion,Autonomous Robotic Surgery,Deformable Tissue Manipulation,Dental Implant Placement,Accuracy Evaluation,Accurate Registration,Deep Reinforcement Learning,Robot Kinematics,Automatic Ultrasound Imaging,Three-dimensional Visualization,Integral Videography,Orthopedics,Real-time Lesion Tracking,Hifu Therapy,Intelligent Theranostics,Multistage Neural Network,Biomedical Optical Imaging,Informatics,Navigation,Integral Photography,Moving-tolerant,Cameras,Minimally Invasive Surgery,Generative Adversarial Networks,Wavelet Domain,Noise Reduction,Wavelet Transforms,Medical Ultrasound Imaging,Generative Adversarial Network",
+      "papers": 48,
+      "cites": 359,
+      "department": [
+        "临床医学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-016.webp",
+      "photoHeight": 69.375,
+      "rowHeight": 93.375
+    },
+    {
+      "id": "660bb728695deafef7b2ef53",
+      "rank": "副高级",
+      "name": "王春艳",
+      "unit": "清华大学",
+      "title": "副研究员",
+      "research": "Water-energy-emission Nexus,Industrial Ecology,Agent-based Modelling,Pareto Optimization,Water-energy Nexus,Scenario Analysis,Societal Metabolism,DATA,Plastics Waste,Plastics,Stock And Flow,Technology Trade-offs,Steel Production,Ultra-low Emission,Coal-fired Power Industry,(highly-) Affected Population,Inter-grid Electricity Transmission,Benefited Population,Water Scarcity Basin,Coal-fired Power Plant,Entropy Weighting,Virtual City,Population Distribution,Empirical Study,Water Distribution Network,City Shape,Secondary Water Supply,Innovation Diffusion,Autonomous Vehicle,Impact Assessment,Integrated Modelling,Electric Vehicle,House Appliances,Consumption Behaviour,Nexus Of Water And Energy,Activity-based Modelling,Xgboost,Food Shopping Behaviors,Face -to -face Survey,Abc Theory,Urban Residential Community,Flows And Stocks,Mitigation Pathways,Zero Plastic Pollution,Plastic Waste,Deep Learning,Risk Communication,Social Network Analysis,Trade Network,Individual Perception",
+      "papers": 32,
+      "cites": 465,
+      "department": [
+        "环境学院环境系统分析教研所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-015.webp",
+      "photoHeight": 79.09375,
+      "rowHeight": 103.09375
+    },
+    {
+      "id": "660156b1bec2d3b80a84498b",
+      "rank": "中级",
+      "name": "徐群策",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Deep Learning,Generative Models,Geometry Learning,3d Representations,Conditional Generative Models,Shape Representation,Generative Adversarial Networks,Representation Learning,Texture Mapping,Point Cloud Denoising,Neural Radiance Fields,Novel View Synthesis,Sparse Latent Code,Dynamic 3d Representation,Geometry Processing,Optimization",
+      "papers": 8,
+      "cites": 29,
+      "department": [
+        "计算机科学与技术系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-014.webp",
+      "photoHeight": 76.28125,
+      "rowHeight": 100.28125
+    },
+    {
+      "id": "65ed8e050b6735f4855eb984",
+      "rank": "中级",
+      "name": "赵娜娜",
+      "unit": "清华大学",
+      "title": "",
+      "research": "Polybrominated Diphenyl Ethers,Weee Legislation,Extended Producer Responsibility,Weee Recycling,Regulation,Environmental Contamination Level,Human Exposure,China,Used Electrical And Electronic Equipments,Waste Electrical And Electronic Equipments,Stockholm Convention,Waste Identification,Environmentally Sound Management,Transboundary Movement,E-waste,ASIA,Basel Convention,PCBS,Environmentally Sound Management (esm),National Implementation Plan (nip),Asia-pacific Region,Reuse,Waste Stream,Solid Waste,Recyclables,Recycling,CFB",
+      "papers": 11,
+      "cites": 334,
+      "department": [
+        "环境学院固体废物控制与资源化教研所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "",
+      "photoHeight": 60,
+      "rowHeight": 91
+    },
+    {
+      "id": "65ec713d0b6735f4855dd72b",
+      "rank": "中级",
+      "name": "夏乾臣",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Deep Learning,Chinese Medical Web Page,Keyword Extraction,Wf-tf-idf,Tf-idf,Gesture Interaction,Flexible Strain Sensor,Data Glove,Metaverse,LSTM,Time Series,Advertising Conversion Rate,Online Advertising,Information-theoretic Method,Web Usage,Distributed Storage,Interface Window Tree,User Behavior,Unique Storage,User Trace Collection,Software Design,The Interface Window Tree,Reinforcement Learning,State Transition Graph,Weakly-supervised Anomaly Detection,Spiking Neural Network,Model-checking,Robustness And Generalization,Heterogeneous Data Retrieval,Massive Data Management,Memory Applications,Event Camera,Autoscaler,Batch Normalization,Named Entity Recognition,Docker,Long Short Term Memory,Multimodal Vision,Content-based Recommendation,Cloud Computing,Tracking,Topic Modeling,Workload Prediction,Context-aware Recommender Systems,Hierarchical Index",
+      "papers": 18,
+      "cites": 57,
+      "department": [
+        "未来实验室"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-013.webp",
+      "photoHeight": 84,
+      "rowHeight": 108
+    },
+    {
+      "id": "65d53c86c136ef1331a1bcbd",
+      "rank": "中级",
+      "name": "王诗傲",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "",
+      "papers": 0,
+      "cites": 0,
+      "department": [
+        "国际与地区研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-012.webp",
+      "photoHeight": 56.4375,
+      "rowHeight": 80.4375
+    },
+    {
+      "id": "65d510d4c136ef1331958b7a",
+      "rank": "中级",
+      "name": "张炜程",
+      "unit": "清华大学",
+      "title": "Unknow",
+      "research": "Wheat Endosperm,Actin,Affinity Chromatography",
+      "papers": 1,
+      "cites": 23,
+      "department": [
+        "马克思主义学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-011.webp",
+      "photoHeight": 78.1875,
+      "rowHeight": 102.1875
+    },
+    {
+      "id": "65d4b85f8a47b622193517d8",
+      "rank": "中级",
+      "name": "张文文",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "TPLT,Plate-type Fuel Element,Prhrs,Nhr200-ii,Odr-vs Method,Abaqus,Monte Carlo Method,Multi-physics,U3si2/al,Spent Fuel,Pool-vessel Reactor,Combined Passive Cooling System,Loop Thermosyphon,Pool -vessel Reactor,Thermal Hydraulic,Thermohydraulic Analyses,Power Regulation And Distribution,New Application,Heat Transfer,C -type Heat Exchanger,Research Reactor,Conceptual Design,Superheated Steam Supply System,Nuclear Heating Reactor,Thermal -hydraulic,Transient Model Development,Spent Fuel Pool,Thermosyphon,Porous Media Approach,Novel System Design,Superheated Steam,Simulation,Power Flattening,Two-phase Two -fluid,Long-term Cooling,Combined Passive Cooling,Stochastic Medium,Rmc Code,Reactor Pool,Constrol System",
+      "papers": 12,
+      "cites": 9,
+      "department": [
+        "核能与新能源技术研究院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "",
+      "photoHeight": 60,
+      "rowHeight": 91
+    },
+    {
+      "id": "65d48eb5c136ef1331732cdc",
+      "rank": "中级",
+      "name": "张元娜",
+      "unit": "清华大学",
+      "title": "",
+      "research": "Ceramic Membrane,Fouling Control,Fouling Model,Activated Carbon,Water Characteristics,Organics,Membrane,Ultraviolet,Disinfection,Emission Reduction,Energy-Saving,Submerged Ultrafiltration,Gravity Siphon,Kinematic Model,Mathematical Model,Milling Temperature,Mechanochemical,Energy Transfer Model,Desalinated Seawater,Remineralization,Pipe Material,Water Stability,Wastewater Treatment,Advanced Oxidation Processes,Ultraviolet (Uv),Urban Water Supply",
+      "papers": 8,
+      "cites": 44,
+      "department": [
+        "环境学院给水排水教研所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "",
+      "photoHeight": 60,
+      "rowHeight": 91
+    },
+    {
+      "id": "65d2bafc8a47b621f772a3be",
+      "rank": "中级",
+      "name": "刘骁",
+      "unit": "清华大学",
+      "title": "助理教授",
+      "research": "The Second Sino-japanese War,Application Of Meteorology,Protecting Sovereignty,Scientific Infrastructure,The Southwest Observation Network",
+      "papers": 1,
+      "cites": 0,
+      "department": [
+        "科学史系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-010.webp",
+      "photoHeight": 73.359375,
+      "rowHeight": 97.359375
+    },
+    {
+      "id": "65d0a2bc8a47b6221929aec8",
+      "rank": "正高级",
+      "name": "李国能",
+      "unit": "香港大学",
+      "title": "教授",
+      "research": "",
+      "papers": 0,
+      "cites": 0,
+      "department": [
+        "-"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-009.webp",
+      "photoHeight": 74.765625,
+      "rowHeight": 98.765625
+    },
+    {
+      "id": "65b4a16822c473e05899aaec",
+      "rank": "中级",
+      "name": "张忠轩",
+      "unit": "清华大学",
+      "title": "Unknow",
+      "research": "",
+      "papers": 2,
+      "cites": 0,
+      "department": [
+        "人工智能学院"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-008.webp",
+      "photoHeight": 60,
+      "rowHeight": 84
+    },
+    {
+      "id": "65a157908a47b62d65886147",
+      "rank": "中级",
+      "name": "潘捷",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Group I Intron,Rna Folding,Dense Retrieval,Vector Similarity Search,K-Nn,Vector Database,Nearest Neighbor Index,K Nearest Neighbor,Similarity Search,Vector Data Management,Approximate Nearest Neighbor,Ribozyme,Energy Landscape,Iterative Annealing,Tetrahymena Ribozyme,Kinetic Partitioning Mechanism,Counterion Condensation,Group I Ribozyme,Polyamines,Hydroxyl Radical Cleavage,X-Ray Footprinting,Shared Transport,Roads,Indexes,Throughput,Concurrent Computing,Tour Expansion,Costs,Concurrency Control,Ridesharing,Vehicle Dynamics",
+      "papers": 11,
+      "cites": 724,
+      "department": [
+        "计算机科学与技术系计算机软件研究所"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-007.webp",
+      "photoHeight": 83.015625,
+      "rowHeight": 107.015625
+    },
+    {
+      "id": "65a12d658ad5f0a3c5de7664",
+      "rank": "中级",
+      "name": "严柳新",
+      "unit": "清华大学",
+      "title": "助理教授",
+      "research": "Emotions,Abusive Supervision,Stigma By Association,Attribution,Parenting Behavior,Racism,Stress Crossover,Retirement Intentions,Intrinsic Motivation,Impression Management,Foreignness,Financial Anxiety,Acculturation Stress,Extrinsic Motivation,Hypocrisy,Stress,Workplace Stress,Competition,Confronting Prejudice,Asian American",
+      "papers": 11,
+      "cites": 8,
+      "department": [
+        "经济管理学院领导力与组织管理系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-006.webp",
+      "photoHeight": 76.078125,
+      "rowHeight": 100.078125
+    },
+    {
+      "id": "659cabd305f037e6c687a0b5",
+      "rank": "副高级",
+      "name": "李冬梅",
+      "unit": "清华大学",
+      "title": "副研究员",
+      "research": "Electrostatic Suspension,Digital Control,Feedback Linearization,Dynamic Stiffness,Electrostatic Bearing,Magnetic Levitation,Neuro-fuzzy Methods,Fuzzy Logic Systems,Quadrature Cancellation,Anchor Damping,In-phase Output,Genetic Fuzzy Systems,Fuzzy Rule-based Systems,Fuzzy Logic",
+      "papers": 7,
+      "cites": 69,
+      "department": [
+        "机械工程学院精密仪器系导航技术工程中心"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-005.webp",
+      "photoHeight": 72,
+      "rowHeight": 96
+    },
+    {
+      "id": "6597c4e2e577a45cc2eb023c",
+      "rank": "中级",
+      "name": "韩强",
+      "unit": "清华大学",
+      "title": "工程师",
+      "research": "",
+      "papers": 0,
+      "cites": 0,
+      "department": [
+        "微分析方法与仪器北京市重点实验室​"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-004.webp",
+      "photoHeight": 85.71875,
+      "rowHeight": 109.71875
+    },
+    {
+      "id": "6597b6af7129e2381dc2d047",
+      "rank": "中级",
+      "name": "李淼",
+      "unit": "清华大学",
+      "title": "助理研究员",
+      "research": "Entropy Minimization,Information Retrieval,Humanities And Social Sciences,Software,Removable Prosthodontics,Multidisciplinary,Science,Spoken Language Understanding,Spoken Dialog System,Automatic Speech Recognition (asr),Dialog Turns,Dialog Management,Dialog State Modeling,Probabilistic Dialog Representation,Probabilistic Dialogue Management,Goal-driven Strategy,Target-based State Tracking,D-s Theory,Task-oriented Spoken Dialog System,Topic Modeling,Text Mining,Named Entity Recognition,Multilingual Neural Machine Translation,Dialog State Tracking,Parallel Language System,Probabilistic Enhanced Frame Strcture",
+      "papers": 9,
+      "cites": 118,
+      "department": [
+        "电子工程系"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-003.webp",
+      "photoHeight": 79.15625,
+      "rowHeight": 103.15625
+    },
+    {
+      "id": "657bc1ce6203192824ec0364",
+      "rank": "正高级",
+      "name": "梛野正人",
+      "unit": "日本名古屋大学",
+      "title": "教授",
+      "research": "Neoadjuvant Therapy,Ablation",
+      "papers": 66,
+      "cites": 1261,
+      "department": [
+        "-"
+      ],
+      "status": "启用",
+      "email": "",
+      "adjunct": false,
+      "photo": "assets/asset-002.webp",
+      "photoHeight": 81.84375,
+      "rowHeight": 105.84375
+    },
+    {
+      "id": "5be299d9dabfae5848a8145a",
+      "rank": "正高级",
+      "photo": "",
+      "name": "李亚栋",
+      "unit": "清华大学",
+      "title": "教授",
+      "research": "Nanomaterials,Catalysis,Inorganic Chemistry,Nanocrystals,Energy Conversion",
+      "papers": 1122,
+      "cites": 163899,
+      "department": [
+        "化学系"
+      ],
+      "status": "启用",
+      "email": "ydli@tsinghua.edu.cn",
+      "adjunct": false,
+      "photoHeight": 78,
+      "rowHeight": 104
+    }
+  ],
+  "details": {
+    "53f439dbdabfaee0d9b845bc": {
+      "bio": [
+        "南策文，1962年11月出生于湖北浠水，材料科学家，中国科学院院士、发展中国家科学院院士，国际陶瓷联盟(ICF)理事长、中国硅酸盐学会副理事长等，曾任亚洲电子陶瓷协会主席。",
+        "主要从事功能复合材料和陶瓷材料的研究，侧重材料物理与基础方面。",
+        "南策文构建了处理复合材料中复杂多场耦合效应的有效介质方法，给出了计算宏观多场耦合性能系数的解。设计发展了铁磁合金基磁电复合新体系，提出了复合巨磁电效应。系统研究了多铁性磁电复合薄膜，提出了多种新型磁电存储器及传感元件。建立了计算非均质材料界面因素对宏观物理输运性能影响的有效介质模型方法；在界面模型指导下，发展了新型高介电材料、安全锂电池用复合固态电解质等。",
+        "2025年4月，南京航空航天大学李伟伟教授与清华大学南策文院士等共同研制出一种新型介电储能材料，其能量密度是主流商用介电储能材料的数十至数百倍，有望成为下一代高功率脉冲技术的核心器件。国际顶级学术期刊《科学》4月11日在线发表了相关成果。"
+      ],
+      "education": [
+        "1978 -1982年7月，华东理工大学，学士",
+        "1982 -1985年3月，华东理工大学，硕士学位",
+        "1988 -1992年6月，武汉理工大学，博士学位（在职人员）",
+        "1990.02-1991.04，美国New Mexico大学微观工程陶瓷中心 学习",
+        "1994.12-1995.12，美国California大学Santa Barbara分校材料系 学习",
+        "1996.06-1997.12，德国Saarlandes大学纳米材料研究所 学习",
+        "1999.01-1999.10，美国Rutgers大学 学习"
+      ],
+      "work": [
+        "1985.04 至 1988.06，武汉理工大学，讲师",
+        "1988.07 至 1992.07，武汉理工大学，副教授",
+        "1992.07 至 1999.11，武汉理工大学，教授",
+        "1993年12月起，武汉理工大学，博士生导师",
+        "1999.12 至今，清华大学，教授",
+        "2002年，担任“功能陶瓷”学科方向国家重点基础研究发展计划（973计划）项目首席科学家"
+      ],
+      "educationEn": [],
+      "workEn": [],
+      "social": [],
+      "honors": [],
+      "researchTags": [
+        "磁电材料",
+        "功能陶瓷",
+        "储能材料",
+        "固态电解质",
+        "多铁性材料"
+      ],
+      "candidateTags": [
+        "介电材料",
+        "纳米复合材料"
+      ],
+      "policies": [
+        [
+          "先进功能材料产业高质量发展政策建议",
+          "南策文",
+          "2026-05",
+          "国家级",
+          "通过智库中心报送政策报告"
+        ]
+      ],
+      "projects": [
+        [
+          "高储能密度无铅介电材料关键技术研究",
+          "2025YFA0701200",
+          "国家重点研发计划",
+          "南策文",
+          "2025-01",
+          "2029-12",
+          "500万元",
+          "学术项目"
+        ]
+      ],
+      "books": [
+        [
+          "功能陶瓷材料导论（第3版）",
+          "教材",
+          "南策文",
+          "清华大学出版社",
+          "978-7-302-00000-0",
+          "2026-02"
+        ]
+      ],
+      "patents": [
+        [
+          "一种高熵陶瓷电容器及其制备方法",
+          "中国",
+          "2025-06-18",
+          "2026-08-12",
+          "南策文",
+          "清华大学材料科学与工程研究院",
+          "1"
+        ]
+      ],
+      "otherAchievements": [
+        [
+          "高功率脉冲电容器材料数据库",
+          "南策文",
+          "科研数据库",
+          "2026-06"
+        ]
+      ],
+      "opinions": [
+        [
+          "先进功能材料政策起草与解读",
+          "南策文",
+          "2026-05-20",
+          "清华大学材料科学与工程研究院"
+        ]
+      ],
+      "stats": {
+        "h": 138,
+        "g": 256,
+        "s": 7.8252,
+        "d": 4.496,
+        "a": 912.9952
+      },
+      "fields": [
+        [
+          "Magnetoelectric",
+          "磁电",
+          "49",
+          "2002:1 2006:4 2016:10 2021:3 2024:3"
+        ],
+        [
+          "Thermoelectric",
+          "热电",
+          "40",
+          "2003:3 2015:4 2023:6 2025:1"
+        ],
+        [
+          "Thermal Conductivity",
+          "热导率",
+          "37",
+          "1994:4 2018:6 2021:2 2025:1"
+        ],
+        [
+          "Composite",
+          "复合材料",
+          "37",
+          "2002:6 2008:2 2011:16 2020:2"
+        ],
+        [
+          "Ionic Conductivity",
+          "离子电导率",
+          "35",
+          "2002:4 2012:4 2017:5 2025:1"
+        ],
+        [
+          "Energy Storage",
+          "储能",
+          "33",
+          "2018:2 2022:5 2023:10 2025:4"
+        ],
+        [
+          "Dielectric Properties",
+          "介电性质",
+          "33",
+          "2002:4 2007:15 2016:3 2023:1"
+        ],
+        [
+          "Magnetoelectric Effect",
+          "磁电效应",
+          "31",
+          "2002:3 2011:16 2015:1"
+        ]
+      ],
+      "papers": [
+        [
+          "Ultrahigh Energy Storage in High-Entropy Ceramic Capacitors with Polymorphic Relaxor Phase",
+          "南策文",
+          "api.crossref.org/works/10.1126/science.adl2931",
+          "79",
+          "2025-04-11"
+        ],
+        [
+          "Novel Ferroelectric Polymer Composites with High Dielectric Constants",
+          "南策文",
+          "openalex.org/W2014195874",
+          "793",
+          "2024-08-16"
+        ],
+        [
+          "Intercalated Electrolyte with High Transference Number for Dendrite-Free Solid-State Lithium Batteries",
+          "南策文",
+          "openalex.org/W2957908098",
+          "391",
+          "2023-11-02"
+        ],
+        [
+          "Magnetoelectric Effect in Multiferroic Heteroepitaxial Composite Thin Films",
+          "南策文",
+          "sciencedirect.com/science/article/pii/S1359645407006684",
+          "153",
+          "2022-07-20"
+        ],
+        [
+          "Enhanced Ionic Transport in Lithium Lanthanum Titanium Oxide Solid State Electrolyte",
+          "南策文",
+          "semanticscholar.org/paper/55b4ab6532c01eaae71be23222c84dfdfcc0b240",
+          "112",
+          "2021-06-08"
+        ],
+        [
+          "Giant Dielectric Permittivity Observed in Li and Ti Doped NiO",
+          "南策文",
+          "openalex.org/W2090329884",
+          "762",
+          "2020-05-19"
+        ],
+        [
+          "Controlled Fabrication of BiFeO3 Uniform Microcrystals",
+          "南策文",
+          "api.crossref.org/works/10.1021/cm034628v",
+          "403",
+          "2019-02-12"
+        ]
+      ],
+      "collaborators": [
+        [
+          "何金良",
+          "26"
+        ],
+        [
+          "马静",
+          "173"
+        ],
+        [
+          "沈洋",
+          "226"
+        ],
+        [
+          "于浦",
+          "21"
+        ],
+        [
+          "林元华",
+          "567"
+        ],
+        [
+          "张薛",
+          "18"
+        ],
+        [
+          "谷林",
+          "55"
+        ]
+      ],
+      "institutions": [
+        [
+          "哥伦比亚大学",
+          "Columbia University",
+          "3"
+        ],
+        [
+          "国家标准与技术研究所",
+          "National Institute of Standards and Technology",
+          "2"
+        ],
+        [
+          "斯德哥尔摩大学",
+          "Stockholm University",
+          "14"
+        ],
+        [
+          "北京大学",
+          "Peking University",
+          "31"
+        ],
+        [
+          "清华大学",
+          "Tsinghua University",
+          "1022"
+        ],
+        [
+          "武汉理工大学",
+          "Wuhan University of Technology",
+          "117"
+        ],
+        [
+          "中国科学院",
+          "Chinese Academy of Sciences",
+          "62"
+        ]
+      ],
+      "departmentLabel": "清华大学材料科学与工程研究院"
+    }
+  },
+  "schemas": {
+    "paper": [
+      "论文标题",
+      "作者",
+      "来源链接",
+      "引用次数",
+      "发表日期"
+    ],
+    "policy": [
+      "名称摘要",
+      "作者",
+      "报出时间",
+      "采用级别",
+      "政策类型"
+    ],
+    "project": [
+      "项目名称",
+      "项目编号",
+      "项目类别",
+      "项目负责人",
+      "开始日期",
+      "结束日期",
+      "合同经费",
+      "项目类型"
+    ],
+    "book": [
+      "名称",
+      "类型",
+      "作者",
+      "出版单位",
+      "ISBN",
+      "出版时间"
+    ],
+    "patent": [
+      "名称",
+      "国别",
+      "申请日期",
+      "授权日期",
+      "发明人",
+      "申请院系",
+      "本人排名"
+    ],
+    "otherAchievement": [
+      "名称",
+      "作者",
+      "成果类型",
+      "取得时间"
+    ],
+    "opinion": [
+      "事件",
+      "作者",
+      "时间",
+      "主办部门或媒体"
+    ]
+  },
+  "names": {
+    "paper": "论文著作",
+    "policy": "政策报告",
+    "project": "参与项目",
+    "book": "著作/教材",
+    "patent": "专利/知识产权",
+    "otherAchievement": "其他成果",
+    "opinion": "政策起草和解读"
+  },
+  "order": [
+    "policy",
+    "opinion",
+    "paper",
+    "project",
+    "book",
+    "patent",
+    "otherAchievement"
+  ],
+  "samples": [
+    {
+      "type": "policy",
+      "fields": [
+        "政策报告名称摘要示例",
+        "作者示例",
+        "2025-05-01",
+        "国家级",
+        "通过智库中心报送政策报告"
+      ]
+    },
+    {
+      "type": "opinion",
+      "fields": [
+        "政策起草和解读事件示例",
+        "作者示例",
+        "2025-05-01",
+        "主办部门或媒体示例"
+      ]
+    },
+    {
+      "type": "paper",
+      "fields": [
+        "论文标题示例",
+        "作者示例",
+        "xxx",
+        "100",
+        "2025-05-01"
+      ]
+    },
+    {
+      "type": "project",
+      "fields": [
+        "项目名称示例",
+        "xxx",
+        "国家级",
+        "负责人",
+        "2025-05-01",
+        "2025-05-01",
+        "500万元",
+        "智库项目"
+      ]
+    },
+    {
+      "type": "book",
+      "fields": [
+        "著作名称示例",
+        "教材",
+        "作者示例",
+        "出版单位示例",
+        "ISBN示例",
+        "2025-05-01"
+      ]
+    },
+    {
+      "type": "patent",
+      "fields": [
+        "专利名称示例",
+        "中国",
+        "2025-05-01",
+        "2025-05-01",
+        "发明人示例",
+        "申请院系示例",
+        "1"
+      ]
+    },
+    {
+      "type": "otherAchievement",
+      "fields": [
+        "其他成果名称示例",
+        "作者示例",
+        "成果类型示例",
+        "2025-05-01"
+      ]
+    }
+  ],
+  "reviewSamples": [
+    {
+      "type": "policy",
+      "fields": [
+        "政策报告名称摘要示例",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "needsReview": true,
+      "reviewReason": "作者、报出时间、采用级别和政策类型待人工补充"
+    },
+    {
+      "type": "opinion",
+      "fields": [
+        "政策起草和解读事件示例",
+        "",
+        "",
+        ""
+      ],
+      "needsReview": true,
+      "reviewReason": "作者、时间和主办部门或媒体待人工补充"
+    },
+    {
+      "type": "paper",
+      "fields": [
+        "论文标题示例",
+        "",
+        "xxx",
+        "100",
+        "2025-05-01"
+      ],
+      "needsReview": true,
+      "reviewReason": "作者待人工补充"
+    },
+    {
+      "type": "project",
+      "fields": [
+        "项目名称示例",
+        "xxx",
+        "国家级",
+        "负责人",
+        "2025-05-01",
+        "2025-05-01",
+        "500万元",
+        "学术项目"
+      ]
+    },
+    {
+      "type": "book",
+      "fields": [
+        "著作名称示例",
+        "",
+        "",
+        "",
+        "",
+        "2025-05-01"
+      ],
+      "needsReview": true,
+      "reviewReason": "类型、作者、出版单位和ISBN待人工补充"
+    },
+    {
+      "type": "patent",
+      "fields": [
+        "专利名称示例",
+        "中国",
+        "2025-05-01",
+        "2025-05-01",
+        "",
+        "",
+        "1"
+      ],
+      "needsReview": true,
+      "reviewReason": "发明人和申请院系待人工补充"
+    },
+    {
+      "type": "otherAchievement",
+      "fields": [
+        "其他成果名称示例",
+        "",
+        "成果类型示例",
+        "2025-05-01"
+      ],
+      "needsReview": true,
+      "reviewReason": "作者待人工补充"
+    }
+  ],
+  "batchConfigs": {
+    "paper": {
+      "name": "论文著作",
+      "headers": [
+        "论文标题",
+        "作者",
+        "来源链接",
+        "引用次数",
+        "发表日期"
+      ],
+      "sample": [
+        "标题示例",
+        "作者示例",
+        "xxx",
+        "100",
+        "2025-05-01"
+      ],
+      "required": "仅论文标题为必填项"
+    },
+    "policy": {
+      "name": "政策报告",
+      "headers": [
+        "名称摘要",
+        "作者",
+        "报出时间",
+        "采用级别",
+        "政策类型"
+      ],
+      "sample": [
+        "标题示例",
+        "作者示例",
+        "2025-05-01",
+        "国家级",
+        "通过智库中心报送政策报告"
+      ],
+      "required": "仅名称摘要为必填项"
+    },
+    "project": {
+      "name": "参与项目",
+      "headers": [
+        "项目名称",
+        "项目编号",
+        "项目类别",
+        "项目负责人",
+        "开始日期",
+        "结束日期",
+        "合同经费",
+        "项目类型"
+      ],
+      "sample": [
+        "标题示例",
+        "xxx",
+        "国家级",
+        "负责人",
+        "2025-05-01",
+        "2025-05-01",
+        "500万元",
+        "智库项目"
+      ],
+      "required": "仅项目名称为必填项"
+    },
+    "book": {
+      "name": "著作/教材",
+      "headers": [
+        "名称",
+        "类型",
+        "作者",
+        "出版单位",
+        "ISBN",
+        "出版时间"
+      ],
+      "sample": [
+        "标题示例",
+        "类型示例",
+        "作者示例",
+        "出版单位示例",
+        "ISBN示例",
+        "2025-05-01"
+      ],
+      "required": "仅名称为必填项"
+    },
+    "patent": {
+      "name": "专利/知识产权",
+      "headers": [
+        "名称",
+        "国别",
+        "申请日期",
+        "授权日期",
+        "发明人",
+        "申请院系",
+        "本人排名"
+      ],
+      "sample": [
+        "标题示例",
+        "中国",
+        "2025-05-01",
+        "2025-05-01",
+        "发明人示例",
+        "申请院系示例",
+        "1"
+      ],
+      "required": "仅名称为必填项"
+    },
+    "otherAchievement": {
+      "name": "其他成果",
+      "headers": [
+        "名称",
+        "作者",
+        "成果类型",
+        "取得时间"
+      ],
+      "sample": [
+        "标题示例",
+        "作者示例",
+        "成果类型示例",
+        "2025-05-01"
+      ],
+      "required": "仅名称为必填项"
+    },
+    "opinion": {
+      "name": "政策起草和解读",
+      "headers": [
+        "事件",
+        "作者",
+        "时间",
+        "主办部门或媒体"
+      ],
+      "sample": [
+        "标题示例",
+        "作者示例",
+        "2025-05-01",
+        "主办部门或媒体示例"
+      ],
+      "required": "仅事件为必填项"
+    },
+    "institution": {
+      "name": "合作机构",
+      "headers": [
+        "机构名称(中文)",
+        "机构名称(英文)",
+        "合作次数"
+      ],
+      "sample": [
+        "标题示例",
+        "xxx",
+        "100"
+      ],
+      "required": "三项均为必填项，不可为空"
+    }
+  },
+  "history": [
+    {
+      "id": "history-1793776839129",
+      "fileName": "2026年教师成果汇总.xlsx",
+      "fileNames": [
+        "2026年教师成果汇总.xlsx"
+      ],
+      "submittedAt": "2026/11/4 15:20:39",
+      "status": "待确认",
+      "peopleCount": 3,
+      "achievementCount": 5,
+      "batch": {
+        "fileName": "2026年教师成果汇总.xlsx",
+        "fileNames": [
+          "2026年教师成果汇总.xlsx"
+        ],
+        "activePerson": null,
+        "people": [
+          {
+            "name": "南策文",
+            "matchedId": "53f439dbdabfaee0d9b845bc",
+            "entries": [
+              {
+                "type": "paper",
+                "fields": [
+                  "批量论文示例A",
+                  "作者示例",
+                  "xxx",
+                  "100",
+                  "2025-05-01"
+                ],
+                "needsReview": false,
+                "reviewReason": "",
+                "enabled": true,
+                "duplicate": false
+              },
+              {
+                "type": "policy",
+                "fields": [
+                  "批量政策示例A",
+                  "作者示例",
+                  "2025-05-01",
+                  "国家级",
+                  "通过智库中心报送政策报告"
+                ],
+                "needsReview": false,
+                "reviewReason": "",
+                "enabled": true,
+                "duplicate": false
+              }
+            ],
+            "sameFileDuplicate": true
+          },
+          {
+            "name": "李亚栋",
+            "matchedId": "5be299d9dabfae5848a8145a",
+            "entries": [
+              {
+                "type": "book",
+                "fields": [
+                  "批量教材示例A",
+                  "教材",
+                  "作者示例",
+                  "出版单位示例",
+                  "ISBN示例",
+                  "2025-05-01"
+                ],
+                "needsReview": false,
+                "reviewReason": "",
+                "enabled": true,
+                "duplicate": false
+              },
+              {
+                "type": "patent",
+                "fields": [
+                  "批量专利示例A",
+                  "中国",
+                  "2025-05-01",
+                  "2025-05-01",
+                  "发明人示例",
+                  "申请院系示例",
+                  "1"
+                ],
+                "needsReview": false,
+                "reviewReason": "",
+                "enabled": true,
+                "duplicate": false
+              }
+            ]
+          },
+          {
+            "name": "王老师",
+            "matchedId": "",
+            "entries": [
+              {
+                "type": "otherAchievement",
+                "fields": [
+                  "需人工核对成果示例",
+                  "作者示例",
+                  "成果类型示例",
+                  "2025-05-01"
+                ],
+                "needsReview": true,
+                "reviewReason": "人员或成果内容存在歧义，请人工核对",
+                "enabled": true,
+                "duplicate": false
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "history-1",
+      "fileName": "2020990162_周浩_智库中心_清华大学教师2025年度考核表.docx",
+      "submittedAt": "2026/10/30 16:13:08",
+      "status": "待确认",
+      "peopleCount": 4,
+      "achievementCount": 6,
+      "batch": null
+    },
+    {
+      "id": "history-2",
+      "fileName": "2026年教师成果汇总.xlsx",
+      "submittedAt": "2026/10/29 14:26:35",
+      "status": "已导入",
+      "peopleCount": 12,
+      "achievementCount": 48,
+      "batch": null
+    },
+    {
+      "id": "history-3",
+      "fileName": "材料学院成果合集.docx",
+      "submittedAt": "2026/10/30 19:42:16",
+      "status": "识别中",
+      "peopleCount": null,
+      "achievementCount": null,
+      "batch": null
+    }
+  ],
+  "nav": [
+    {
+      "label": "概览",
+      "child": false,
+      "expanded": null
+    },
+    {
+      "label": "知识库管理",
+      "child": false,
+      "expanded": true
+    },
+    {
+      "label": "知识库",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "知识检索",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "知识库抓取",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "内容管理",
+      "child": false,
+      "expanded": true
+    },
+    {
+      "label": "AI问答引导问题",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "AI检索引导关键词",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "专家管理",
+      "child": false,
+      "expanded": null
+    },
+    {
+      "label": "对话管理",
+      "child": false,
+      "expanded": true
+    },
+    {
+      "label": "会话列表",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "对话列表",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "未检索到",
+      "child": true,
+      "expanded": null
+    },
+    {
+      "label": "账号管理",
+      "child": false,
+      "expanded": false
+    },
+    {
+      "label": "反馈记录",
+      "child": false,
+      "expanded": false
+    },
+    {
+      "label": "红线必答",
+      "child": false,
+      "expanded": null
+    },
+    {
+      "label": "数据分析",
+      "child": false,
+      "expanded": null
+    },
+    {
+      "label": "系统管理",
+      "child": false,
+      "expanded": false
+    }
+  ]
+}

@@ -33,7 +33,7 @@ const research=[
  ['Influence of Al2o3 Additive on the Dielectric Behavior and Energy Density of Ba0.5sr0.5tio3 Ceramics','引用 22 · 发表时间 —']
 ];
 let state={view:'library',search:'',rank:'院士',sort:'default',selected:'3',expanded:{},resultTab:'论文著作',cooperatorOpen:false,cooperatorPage:1,cooperatorSearch:'',moreResults:false};
-function pathBase(){return location.pathname.includes('/expert/library')?'/expert/library/':'/library/'}
+function pathBase(){return new URL('.',location.href).pathname}
 function avatar(name,i,cls='portrait'){const url=avatarUrls[i%avatarUrls.length];return url?`<img class="${cls}" src="${url}" alt="${name}" onerror="this.replaceWith(Object.assign(document.createElement('span'),{className:'${cls} fallback',textContent:'${name.slice(-1)}'}))">`:`<span class="${cls} fallback">${name.slice(-1)}</span>`}
 function filtered(){let list=experts.slice();const q=state.search.trim().toLowerCase();if(q)list=list.filter(e=>(e.name+e.affiliation+e.tags.join('')).toLowerCase().includes(q));if(state.rank==='院士')list=list.slice(0,20);if(state.sort==='pubs')list.sort((a,b)=>parseInt(b.pubs.replace(/,/g,''))-parseInt(a.pubs.replace(/,/g,'')));if(state.sort==='cites')list.sort((a,b)=>parseInt(b.cites.replace(/,/g,''))-parseInt(a.cites.replace(/,/g,'')));return list}
 function render(){if(state.view==='detail')renderDetail();else renderLibrary();}
